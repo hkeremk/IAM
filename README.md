@@ -2,6 +2,14 @@
 
 ![Chart](assets/Chart.png)
 
+![Chart](assets/Users.png)
+
+![Chart](assets/UserGroups.png)
+
+![Chart](assets/Dev-Team.png)
+
+![Chart](assets/HR-Team.png)
+
 
 Task Details
 
