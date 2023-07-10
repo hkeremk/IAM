@@ -1,5 +1,27 @@
 # Creating IAM Users and Groups using Terraform
 
+You can test this project with this commands on your local machine.
+
+- First, Initialize Terraform by running the below command:
+```bash
+  terraform init
+```
+- To generate the action plans run the below command:
+```bash
+  terraform plan
+```
+- To create all the resources declared in main.tf configuration file, run the below command:
+```bash
+  terraform apply
+```
+- To create all the resources declared in main.tf configuration file, run the below command:
+```bash
+  terraform destroy
+```
+
+<hr>
+<br>
+
 ![Chart](assets/Chart.png)
 
 ![Chart](assets/Users.png)
